@@ -1,0 +1,20 @@
+{
+  "heartbeat": {
+    "subtitle": "subtitles.mountaineering.heartbeat",
+    "sounds": [
+      "mountaineering:heartbeat"
+    ]
+  },
+  "heavy_breathing": {
+    "subtitle": "subtitles.mountaineering.heavy_breathing",
+    "sounds": [
+      "mountaineering:heavy_breathing"
+    ]
+  },
+  "wind_ambient": {
+    "subtitle": "subtitles.mountaineering.wind",
+    "sounds": [
+      "mountaineering:wind_ambient"
+    ]
+  }
+}

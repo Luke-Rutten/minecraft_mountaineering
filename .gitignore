@@ -1,0 +1,13 @@
+build/
+run/
+.gradle/
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+logs/
+*.class
+.mixin.out/
+mdk.zip
+mdk_temp/

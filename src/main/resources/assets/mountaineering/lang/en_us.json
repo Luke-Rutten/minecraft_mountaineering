@@ -1,0 +1,21 @@
+{
+  "item.mountaineering.oxygen_tank": "Oxygen Tank",
+  "item.mountaineering.oxygen_tank.remaining": "%s / %s O\u2082 (%s%%)",
+  "item.mountaineering.forecast_device": "Weather Forecast Device",
+  "item.mountaineering.light_helmet": "Light Climbing Helmet",
+  "item.mountaineering.light_chestplate": "Light Climbing Jacket",
+  "item.mountaineering.light_leggings": "Light Climbing Pants",
+  "item.mountaineering.light_boots": "Light Climbing Boots",
+  "item.mountaineering.heavy_helmet": "Heavy Climbing Helmet",
+  "item.mountaineering.heavy_chestplate": "Heavy Climbing Jacket",
+  "item.mountaineering.heavy_leggings": "Heavy Climbing Pants",
+  "item.mountaineering.heavy_boots": "Heavy Climbing Boots",
+  "block.mountaineering.tent": "Tent",
+  "block.mountaineering.heater": "Portable Heater",
+  "screen.mountaineering.forecast": "Weather Forecast",
+  "itemGroup.mountaineering": "Mountaineering",
+  "effect.mountaineering.frostbite": "Frostbite",
+  "subtitles.mountaineering.heartbeat": "Heartbeat",
+  "subtitles.mountaineering.heavy_breathing": "Heavy breathing",
+  "subtitles.mountaineering.wind": "Wind howling"
+}

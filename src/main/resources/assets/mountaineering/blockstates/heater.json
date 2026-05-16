@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "mountaineering:block/heater" },
+    "lit=true": { "model": "mountaineering:block/heater_lit" }
+  }
+}

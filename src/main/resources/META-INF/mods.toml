@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[49,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="mountaineering"
+version="${file.jarVersion}"
+displayName="Mountaineering"
+description='''
+High-altitude mountaineering survival mod. Simulates temperature, oxygen, weight, and weather systems for realistic Himalayan climbing experiences.
+'''
+
+[[dependencies.mountaineering]]
+modId="forge"
+mandatory=true
+versionRange="[49,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.mountaineering]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.4,1.21)"
+ordering="NONE"
+side="BOTH"
